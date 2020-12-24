@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DTPapp</string>
+    <string-array name="viewDTP">
+        <item>столкновение</item>
+        <item>опрокидывание</item>
+        <item>наезд на пешехода</item>
+    </string-array>
+</resources>
